@@ -1,3 +1,4 @@
+// WAP to make class, data members, function and working with obejects.
 class cse
 {
 	int m1;
